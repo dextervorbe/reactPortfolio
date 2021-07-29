@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Quicksand";
+    color: #333;
+  }
+  
+  :root {
+    --green: rgb(93, 214, 164);
+    --black: #0d1117;
+    --white: white;
+}
+
+
+/* Nav Bar CSS */
+  .navbar {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    border-bottom: 1px solid #f2f2f2;
+    background-color: black;
+  }
+
+  .navbar h1 {
+    color: var(--green);
+  }
+
+  .navbar .links {
+    margin-left: auto;
+  }
+
+  .navbar a {
+    color: var(--green);
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+  }
+
+  .navbar a:hover {
+    color: var(--white);
+  }
+
+
+/* About Me CSS */
+  #image {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    border-radius: 50%;
+    padding: 0;
+    width: 100%;
+    max-width: 500px;
+}
+
+.AboutMe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.AboutMe h1 {
+    color: var(--white);
+}
+
+.background-image, .MyWork {
+    background-image: url("https://jessicaroots.com/wp-content/uploads/2018/03/portfolio-background-header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 100px;
+}
+
+/* Skills CSS */
+.Skills {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: black;
+}
+
+.Skills p {
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 20px;
+    color:  var(--white);
+    line-height: 1.5;
+}
+
+.Skills h1, h2 {
+    color: var(--white);
+}
+
+
+/* Image CSS */
+.image-container {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 100px;
+}
+
+.image-container h1 {
+  color: var(--white);
+}
+
+.image-container h2 {
+  font-size: 20px;
+}
+
+.image-container img{
+  height: 150px;
+  width: 150px;
+}
+
+#logo {
+  flex-direction: row;
+  cursor: pointer;
+}
+
+/* Project CSS */
+
+.cardColor {
+  background-color: black;
+}
+
+.cardTitle, .cardText, .MyWork h1 {
+  color: white;
+}
+
+.MyWork h1 {
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.project1, .project2, .project3 {
+  margin: 20px;
+  border-width: thick;
+  max-height: 500px;
+}
+
+/* Contact CSS */
+#Contact {
+  background-color: black;
+}
+
+.Contact h1 {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.contact-container {
+  display: flex;
+  justify-content: space-evenly;
+}
