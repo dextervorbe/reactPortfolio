@@ -134,6 +134,7 @@
   color: white;
 }
 
+
 .MyWork h1 {
   padding-top: 100px;
   display: flex;
@@ -141,10 +142,10 @@
 }
 
 .project1, .project2, .project3 {
-  margin: 20px;
-  border-width: thick;
-  max-height: 500px;
+  max-width: 500px;
 }
+
+
 
 /* Contact CSS */
 #Contact {
