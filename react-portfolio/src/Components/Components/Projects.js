@@ -42,7 +42,7 @@ const Projects = () => {
 
                                 Tools Used: HTML5, CSS3, Moment.Js, JavaScript while also using the openweather API
                             </Card.Text>
-                            <Button variant="success" href="https://github.com/dextervorbe/Weather_Report" class="btn btn-success"><svg
+                            <Button variant="success" href="https://github.com/dextervorbe/Weather_Report" class="btn btn-success" style={{marginRight: '10px'}}><svg
                                 xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                                 class="bi bi-github" viewBox="0 0 16 16">
                                 <path
@@ -65,7 +65,7 @@ const Projects = () => {
                                 Tools Used: HTML5, CSS3, UIkit, JavaScript, while using the New York Times API and Quarantine API
 
                             </Card.Text>
-                            <Button variant="success" href="https://github.com/dextervorbe/Project-One-Pandemic-Travel" class="btn btn-success"><svg
+                            <Button variant="success" href="https://github.com/dextervorbe/Project-One-Pandemic-Travel" class="btn btn-success" style={{marginRight: '10px'}}><svg
                                 xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                                 class="bi bi-github" viewBox="0 0 16 16">
                                 <path
