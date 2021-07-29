@@ -10,7 +10,7 @@ import React from "./Components/Pictures/react-logo.png";
 import mongodb from "./Components/Pictures/mongodb-logo.png";
 import nodejs from "./Components/Pictures/node-js-logo.png";
 import mysql from "./Components/Pictures/mysql-logo.png";
-// import Projects from "./Components/Components/Projects";
+import Projects from "./Components/Components/Projects";
 import Contact from "./Components/Components/Contact";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -41,7 +41,7 @@ function App() {
           </div>
           <h2>Try clicking the logos </h2>
         </div>
-        {/* <Projects /> */}
+        <Projects />
         <Contact />
       </div>
     </>
