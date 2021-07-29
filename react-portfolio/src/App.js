@@ -13,8 +13,7 @@ import mysql from "./Components/Pictures/mysql-logo.png";
 import Projects from "./Components/Components/Projects";
 import Contact from "./Components/Components/Contact";
 import 'bootstrap/dist/css/bootstrap.min.css';
-
-
+import './Components/CSS/index.css';
 
 
 function App() {

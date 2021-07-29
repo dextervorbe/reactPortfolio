@@ -135,20 +135,32 @@
 }
 
 
+
+
 .MyWork h1 {
-  padding-top: 100px;
   display: flex;
   justify-content: center;
+  padding-top: 100px;
 }
 
 .project1, .project2, .project3 {
   max-width: 500px;
+  margin: 10px;
 }
+
+ img.card-img-top {
+   height: 275px;
+} 
+
+div.card-body {
+  height: auto;
+} */
+
 
 
 
 /* Contact CSS */
-#Contact {
+.Contact {
   background-color: black;
 }
 
