@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/reactPortfolio/static/css/main.0ab26f30.chunk.css",
+    "main.js": "/reactPortfolio/static/js/main.2a4576f9.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.2a4576f9.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.a72141c3.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.a72141c3.js.map",
+    "static/css/2.4be38407.chunk.css": "/reactPortfolio/static/css/2.4be38407.chunk.css",
+    "static/js/2.64ea7e7b.chunk.js": "/reactPortfolio/static/js/2.64ea7e7b.chunk.js",
+    "static/js/2.64ea7e7b.chunk.js.map": "/reactPortfolio/static/js/2.64ea7e7b.chunk.js.map",
+    "index.html": "/reactPortfolio/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/reactPortfolio/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.0ab26f30.chunk.css.map": "/reactPortfolio/static/css/main.0ab26f30.chunk.css.map",
+    "static/js/2.64ea7e7b.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.64ea7e7b.chunk.js.LICENSE.txt",
+    "static/media/Covid Safety.87864010.gif": "/reactPortfolio/static/media/Covid Safety.87864010.gif",
+    "static/media/Daily Weather.b36d1784.gif": "/reactPortfolio/static/media/Daily Weather.b36d1784.gif",
+    "static/media/Tech Resume.973e7839.pdf": "/reactPortfolio/static/media/Tech Resume.973e7839.pdf",
+    "static/media/bottomDraw.5d600167.gif": "/reactPortfolio/static/media/bottomDraw.5d600167.gif",
+    "static/media/css-logo.f492f5ab.png": "/reactPortfolio/static/media/css-logo.f492f5ab.png",
+    "static/media/html-logo.0b76f440.png": "/reactPortfolio/static/media/html-logo.0b76f440.png",
+    "static/media/image.c607ec0f.jpg": "/reactPortfolio/static/media/image.c607ec0f.jpg",
+    "static/media/jquery-logo.5218d846.png": "/reactPortfolio/static/media/jquery-logo.5218d846.png",
+    "static/media/mysql-logo.167c8855.png": "/reactPortfolio/static/media/mysql-logo.167c8855.png",
+    "static/media/node-js-logo.65e4a4fa.png": "/reactPortfolio/static/media/node-js-logo.65e4a4fa.png",
+    "static/media/react-logo.20adfb35.png": "/reactPortfolio/static/media/react-logo.20adfb35.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a72141c3.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.64ea7e7b.chunk.js",
+    "static/css/main.0ab26f30.chunk.css",
+    "static/js/main.2a4576f9.chunk.js"
+  ]
+}
