@@ -9,4 +9,4 @@ My own personal Portfolio built with React.
 # How to use
 1. Clone/Download the repo.
 2. Run npm install.
-3. Run npm start
+3. Run npm start 
